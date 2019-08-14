@@ -1,0 +1,9 @@
+ console.log("Connected");
+ 
+ 
+ 
+ function log() {
+            var fname = document.getElementById("fnm") value;
+        }         
+       
+    
